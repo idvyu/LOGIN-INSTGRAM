@@ -32,3 +32,18 @@ site:
           draft: true
           content:
             directory: ./dvyu/untitled
+    - type: section
+      key: section-3
+      title: Copy of > THM ROOM <
+      path: copy-of-greater-than-thm-room-less-than
+      description: ""
+      icon: right-long
+      children:
+        - type: space
+          key: space-3
+          title: Copy of Untitled
+          path: copy-of-untitled
+          default: true
+          draft: true
+          content:
+            directory: ./copy-of-greater-than-thm-room-less-than/copy-of-untitled
