@@ -34,12 +34,13 @@ site:
             directory: ./dvyu/untitled
     - type: section
       key: section-3
-      title: "> script <"
+      title: "> Certificates <"
       path: greater-than-script-less-than
+      description: ""
       children:
         - type: space
           key: space-3
-          title: "> script <"
+          title: "> Certificates <"
           path: greater-than-script-less-than
           default: true
           content:
