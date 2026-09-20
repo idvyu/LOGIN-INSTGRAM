@@ -1,4 +1,4 @@
 # Table of contents
 
-* [PNPT](README.md)
-* [CCNA](ccna.md)
+* [- PNPT -](README.md)
+* [- CCNA -](ccna.md)
