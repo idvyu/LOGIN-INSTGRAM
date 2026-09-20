@@ -26,7 +26,7 @@ layout:
 
 <figure><img src=".gitbook/assets/f3701a31-4f22-4b09-8005-f4d7e803f900 (1).png" alt=""><figcaption></figcaption></figure>
 
-<p align="center">أبني نفسي في عالم <strong>الأمن السيبراني والشبكات والبرمجة والذكاء الاصطناعي</strong> وأؤمن أن المعرفة الحقيقية تبدأ عندما تتحول من كلام إلى تطبيق  أتنقل بين <strong>اختبار الاختراق وأمن الشبكات والأنظمة وPython والذكاء الاصطناعي وCTFs</strong> وأحوّل كل شيء أتعلمه إلى <strong>تجارب ومشاريع ومختبرات حقيقية</strong> هنا أوثق كل ما أبنيه وأتعلمه وأكسره وأصلحه من <strong>Labs وProjects وWriteups وNotes</strong> لتكون هذه الصفحة سجلًا حقيقيًا لتطوري التقني ما أبحث عنه ليس مجرد شهادة أو معلومات محفوظة بل <strong>مهارة تُبنى بالتجربة وخبرة تُصنع بالممارسة</strong></p>
+<p align="center">مهتم بالأمن السيبراني والشبكات والبرمجة والذكاء الاصطناعي، وأحوّل المعرفة إلى تطبيقات ومشاريع ومختبرات عملية في اختبار الاختراق وPython وCTFs أوثّق تجاربي ومشاريعي وLabs وWriteups، وأشارك ما أتعلمه وأطبقه، مع تركيز مستمر على بناء المهارات والخبرة العملية </p>
 
 <p align="center"><strong>Abu Bandar</strong><br>Interested in <strong>Cybersecurity, Networking, Programming and Artificial Intelligence</strong> and I enjoy learning through <strong>hands-on practice, projects and labs</strong><br>I focus on <strong>Cybersecurity, Penetration Testing, Networking, Systems, Python, Artificial Intelligence and CTFs</strong> and share my <strong>notes, projects, labs and experiences</strong> here<br>This is where I document my journey of <strong>learning, developing my skills and improving my life</strong> through everything I learn and apply<br><strong>Learn → Practice → Try → Fail → Fix → Improve</strong></p>
 
