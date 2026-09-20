@@ -24,9 +24,9 @@ layout:
 
 # Abu Bandar | 아부 반다르 | Dvyu :)
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/f3701a31-4f22-4b09-8005-f4d7e803f900 (1).png" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><strong>أبو بندر</strong><br>مهتم بـ <strong>الأمن السيبراني والشبكات والبرمجة والذكاء الاصطناعي</strong> وأحب التعلم من خلال <strong>التطبيق العملي والمشاريع والمختبرات</strong><br>أركز على <strong>الأمن السيبراني واختبار الاختراق والشبكات والأنظمة وPython والذكاء الاصطناعي وCTFs</strong> وأشارك هنا <strong>ملاحظاتي ومشاريعي ومختبراتي وتجربتي</strong><br>هذا المكان يوثق رحلتي في <strong>التعلم والتطوير وبناء المهارات</strong> وكل شيء أتعلمه وأطبقه في طريقي لتطوير نفسي وحياتي<br><strong>تعلم → طبق → جرب → أخطئ → أصلح → تطور</strong></p>
+<p align="center">أبني نفسي في عالم <strong>الأمن السيبراني والشبكات والبرمجة والذكاء الاصطناعي</strong> وأؤمن أن المعرفة الحقيقية تبدأ عندما تتحول من كلام إلى تطبيق  أتنقل بين <strong>اختبار الاختراق وأمن الشبكات والأنظمة وPython والذكاء الاصطناعي وCTFs</strong> وأحوّل كل شيء أتعلمه إلى <strong>تجارب ومشاريع ومختبرات حقيقية</strong> هنا أوثق كل ما أبنيه وأتعلمه وأكسره وأصلحه من <strong>Labs وProjects وWriteups وNotes</strong> لتكون هذه الصفحة سجلًا حقيقيًا لتطوري التقني ما أبحث عنه ليس مجرد شهادة أو معلومات محفوظة بل <strong>مهارة تُبنى بالتجربة وخبرة تُصنع بالممارسة</strong></p>
 
 <p align="center"><strong>Abu Bandar</strong><br>Interested in <strong>Cybersecurity, Networking, Programming and Artificial Intelligence</strong> and I enjoy learning through <strong>hands-on practice, projects and labs</strong><br>I focus on <strong>Cybersecurity, Penetration Testing, Networking, Systems, Python, Artificial Intelligence and CTFs</strong> and share my <strong>notes, projects, labs and experiences</strong> here<br>This is where I document my journey of <strong>learning, developing my skills and improving my life</strong> through everything I learn and apply<br><strong>Learn → Practice → Try → Fail → Fix → Improve</strong></p>
 
