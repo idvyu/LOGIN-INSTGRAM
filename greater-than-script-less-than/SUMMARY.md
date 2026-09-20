@@ -3,3 +3,4 @@
 * [- PNPT -](README.md)
 * [- CCNA -](ccna.md)
 * [- SEC + -](sec-+.md)
+* [- AI -](ai.md)
