@@ -32,3 +32,16 @@ site:
           default: true
           content:
             directory: ./dvyu/untitled
+    - type: section
+      key: section-3
+      title: "> script <"
+      path: greater-than-script-less-than
+      children:
+        - type: space
+          key: space-3
+          title: "> script <"
+          path: greater-than-script-less-than
+          default: true
+          draft: true
+          content:
+            directory: ./greater-than-script-less-than
