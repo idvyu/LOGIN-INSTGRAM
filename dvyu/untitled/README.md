@@ -1,6 +1,6 @@
 # Simple CTF
 
-## Simple CTF
+##
 
 <div align="left"><figure><img src="https://677614291-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FrRWtuMw6xkkeDjZfkcWC%2Fuploads%2FNCj0UUzq8rmIRd01AdHW%2Ff28ade2b51eb7aeeac91002d41f29c47%20(1).png?alt=media&#x26;token=aa5bad25-d62c-4972-b5ec-4bf930781ce4" alt=""><figcaption><p>tryhackme.com - © TryHackMe</p></figcaption></figure></div>
 
