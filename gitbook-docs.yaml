@@ -7,7 +7,7 @@ site:
       title: Whoami
       path: whoami
       description: ""
-      icon: house
+      icon: right-from-line
       default: true
       children:
         - type: space
