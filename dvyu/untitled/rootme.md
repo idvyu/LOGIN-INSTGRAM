@@ -1,6 +1,6 @@
 # - RootMe -
 
-## RootMe
+##
 
 <div align="left"><figure><img src="https://677614291-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FrRWtuMw6xkkeDjZfkcWC%2Fuploads%2FxhbF5RVHcMC2wjuARwbv%2Fimage.png?alt=media&#x26;token=940a5537-23ee-4af5-9836-add532a70f7e" alt="" width="175"><figcaption><p>tryhackme.com - © TryHackMe</p></figcaption></figure></div>
 
