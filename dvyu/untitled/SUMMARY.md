@@ -1,6 +1,7 @@
 # Table of contents
 
 * [- Simple CTF -](README.md)
+* [- Agent Sudo -](agent-sudo.md)
 * [- Anonymous -](anonymous.md)
 * [- Wgel -](wgel.md)
 * [- ICE -](ice.md)
