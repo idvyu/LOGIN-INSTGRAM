@@ -37,6 +37,7 @@ site:
       title: "> Certificates <"
       path: greater-than-script-less-than
       description: ""
+      icon: right-long
       children:
         - type: space
           key: space-3
