@@ -1,6 +1,6 @@
 # - Wgel -
 
-## Wgel
+##
 
 <div align="left"><figure><img src="https://677614291-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FrRWtuMw6xkkeDjZfkcWC%2Fuploads%2Fb0CSG3UE8spTOHVI0Xtq%2Fimage.png?alt=media&#x26;token=99a74a02-0df1-48c5-b31d-17ba0ae8bd91" alt="" width="188"><figcaption></figcaption></figure></div>
 
