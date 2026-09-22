@@ -56,6 +56,5 @@ site:
           title: Active Directory
           path: active-directory
           default: true
-          draft: true
           content:
             directory: ./active-directory
