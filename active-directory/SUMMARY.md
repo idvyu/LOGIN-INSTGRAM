@@ -9,3 +9,4 @@
 
 * [- Active Directory (AD) - #2](active-directory-ad-2.md)
 * [1.1 - Introduction to Active Directory (AD) - #3](1.1-introduction-to-active-directory-ad-3.md)
+* [1.2 - Physical Components of AD - #4](1.2-physical-components-of-ad-4.md)
