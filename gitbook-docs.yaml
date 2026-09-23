@@ -85,6 +85,5 @@ site:
           title: "> CCNP <"
           path: greater-than-ccnp-less-than
           default: true
-          draft: true
           content:
             directory: ./greater-than-ccnp-less-than
