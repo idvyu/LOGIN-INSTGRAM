@@ -4,7 +4,7 @@ site:
   structure:
     - type: section
       key: section-1
-      title: Whoami
+      title: "> Whoami <"
       path: whoami
       description: ""
       icon: right-long
@@ -12,7 +12,7 @@ site:
       children:
         - type: space
           key: space-1
-          title: Whoami
+          title: "> Whoami <"
           path: home
           default: true
           content:
