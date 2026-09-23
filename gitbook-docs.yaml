@@ -91,6 +91,7 @@ site:
       key: section-7
       title: "> PNPT <"
       path: greater-than-pnpt-less-than
+      description: ""
       icon: right-long
       children:
         - type: space
@@ -98,6 +99,5 @@ site:
           title: "> PNPT <"
           path: greater-than-pnpt-less-than
           default: true
-          draft: true
           content:
             directory: ./greater-than-pnpt-less-than
