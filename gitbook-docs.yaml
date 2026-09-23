@@ -87,3 +87,17 @@ site:
           default: true
           content:
             directory: ./greater-than-ccnp-less-than
+    - type: section
+      key: section-7
+      title: "> PNPT <"
+      path: greater-than-pnpt-less-than
+      icon: right-long
+      children:
+        - type: space
+          key: space-7
+          title: "> PNPT <"
+          path: greater-than-pnpt-less-than
+          default: true
+          draft: true
+          content:
+            directory: ./greater-than-pnpt-less-than
