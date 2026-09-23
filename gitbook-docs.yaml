@@ -62,14 +62,14 @@ site:
             directory: ./active-directory
     - type: section
       key: section-5
-      title: Cybersecurity Case Studies    - دراسات حالات الأمن السيبراني
+      title: "> Cybersecurity Case Studies    - دراسات حالات الأمن السيبراني <"
       path: cybersecurity-case-studies-drasat-halat-alamn-alsybrany
       description: ""
       icon: right-long
       children:
         - type: space
           key: space-5
-          title: Cybersecurity Case Studies    - دراسات حالات الأمن
+          title: "> Cybersecurity Case Studies    - دراسات حالات الأ"
           path: cybersecurity-case-studies-drasat-halat-alamn
           default: true
           content:
