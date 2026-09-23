@@ -74,3 +74,17 @@ site:
           default: true
           content:
             directory: ./cybersecurity-case-studies-drasat-halat-alamn-alsybrany/cybersecurity-case-studies-drasat-halat-alamn
+    - type: section
+      key: section-6
+      title: "> CCNP <"
+      path: greater-than-ccnp-less-than
+      icon: right-long
+      children:
+        - type: space
+          key: space-6
+          title: "> CCNP <"
+          path: greater-than-ccnp-less-than
+          default: true
+          draft: true
+          content:
+            directory: ./greater-than-ccnp-less-than
