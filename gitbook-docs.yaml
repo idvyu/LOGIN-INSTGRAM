@@ -63,6 +63,8 @@ site:
       key: section-5
       title: Cybersecurity Case Studies    - دراسات حالات الأمن السيبراني
       path: cybersecurity-case-studies-drasat-halat-alamn-alsybrany
+      description: ""
+      icon: right-long
       children:
         - type: space
           key: space-5
