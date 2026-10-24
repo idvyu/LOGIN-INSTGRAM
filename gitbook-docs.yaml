@@ -101,3 +101,4 @@ site:
           default: true
           content:
             directory: ./greater-than-pnpt-less-than
+            language: ar
