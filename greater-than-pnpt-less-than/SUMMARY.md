@@ -10,3 +10,5 @@
 
 * [PNPT - 2 - 1 = introduction](2-network-refresher/pnpt-2-1-introduction.md)
 * [PNPT - 2 - 2 =  IP Addresses](2-network-refresher/pnpt-2-2-ip-addresses.md)
+* [PNPT - 2 - 3 = MAC Addresses](2-network-refresher/pnpt-2-3-mac-addresses.md)
+* [PNPT - 2 - 4 = TCP (Transmission Control Protocol) and UDP (User Datagram Protocol)](2-network-refresher/pnpt-2-4-tcp-transmission-control-protocol-and-udp-user-datagram-protocol.md)
