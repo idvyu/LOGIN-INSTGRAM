@@ -9,3 +9,4 @@
 ## 2 - Network Refresher
 
 * [PNPT - 2 - 1 = introduction](2-network-refresher/pnpt-2-1-introduction.md)
+* [PNPT - 2 - 2 =  IP Addresses](2-network-refresher/pnpt-2-2-ip-addresses.md)
